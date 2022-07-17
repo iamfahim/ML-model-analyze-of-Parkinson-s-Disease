@@ -18,13 +18,14 @@ values. Therefore, we hope that this model can be beneficial for physicians to d
 ├─ 📁 Dataset/
 ├─ 📁 Result/ 
 ├─ 📁 Source code/
+├─ 📄 Paper
 ─
 ```
 ## Contents:
   1. [Dataset](https://github.com/iamfahim/ML-model-analyze-of-Parkinson-s-Disease/tree/main/Dataset)- is a folder that contains the dataset for `Parkinson-s-Disease-ML-Model-analyze-project`.
   2. [Result](https://github.com/iamfahim/ML-model-analyze-of-Parkinson-s-Disease/tree/main/Result)- is a folder that contains the results obtained from dataset.
   3. [Source code](https://github.com/iamfahim/ML-model-analyze-of-Parkinson-s-Disease/tree/main/Source%20code)- is a folder that contains the all the codes. 
-  
+  4. [Paper](https://github.com/iamfahim/ML-model-analyze-of-Parkinson-s-Disease/blob/main/Paper_90-Machine_Learning_Model_to_Analyze_Telemonitoring.pdf)- is a link to download the paper.
 
 ## How to run:
   1. Clone the repository from [here](https://github.com/iamfahim/ML-model-analyze-of-Parkinson-s-Disease.git) and the Dataset from [here](https://github.com/iamfahim/ML-model-analyze-of-Parkinson-s-Disease/tree/main/Dataset)
